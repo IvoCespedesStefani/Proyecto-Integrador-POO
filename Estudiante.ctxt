@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Estudiante
+comment1.params=p_dniSocio\ p_nombre\ p_diasPrestamo\ p_carrera
+comment1.target=Estudiante(int,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCarrera()
+comment3.params=p_carrera
+comment3.target=void\ setCarrera(java.lang.String)
+comment4.params=
+comment4.target=boolean\ puedePedir()
+comment5.params=
+comment5.target=java.lang.String\ soyDeLaClase()
+numComments=6

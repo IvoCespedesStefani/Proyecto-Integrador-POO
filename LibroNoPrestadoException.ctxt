@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LibroNoPrestadoException
+comment0.text=\r\n\ Excepci\u00F3n\ personalizada\ que\ se\ lanza\ cuando\ se\ intenta\ devolver\r\n\ un\ libro\ que\ no\ est\u00E1\ prestado.\r\n
+comment1.params=mensaje
+comment1.target=LibroNoPrestadoException(java.lang.String)
+comment1.text=\r\n\ Constructor\ que\ recibe\ un\ mensaje\ descriptivo\ del\ error.\r\n\ @param\ mensaje\ texto\ que\ explica\ la\ causa\ del\ error.\r\n
+numComments=2
